@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eu.laramartin.inventorymanager">
+    package="pe.upao.inventorymanager">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -27,7 +27,7 @@
             </intent-filter>
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="eu.laramartin.inventorymanager.MainActivity" />
+                android:value="pe.upao.inventorymanager.MainActivity" />
         </activity>
     </application>
 
